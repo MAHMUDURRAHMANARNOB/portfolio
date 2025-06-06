@@ -31,7 +31,7 @@ export default function HomePage() {
     {
       id: "study-room",
       title: "Study Room",
-      description: "AI-driven educational platform for Bangladeshi students, offering personalized learning, and interactive problem-solving with real-time collaboration.",
+      description: "AI learning for Bangla medium students. Get smart study, resources, and help according to NCTB books!",
       image: studyRoomImg,
       technologies: ["Flutter", "Firebase", "AI/ML", "REST API"],
       rating: "4.8★",
@@ -40,7 +40,7 @@ export default function HomePage() {
     {
       id: "risho-speech",
       title: "Risho Speech",
-      description: "AI-powered language learning app with speech recognition",
+      description: "AI English tutor. Boost pronunciation, accuracy, vocabulary, fluency, and ace IELTS from home and persue a better future",
       image: rishoSpeechImg,
       technologies: ["Flutter", "Firebase", "AI/ML", "REST API"],
       rating: "4.8★",
@@ -49,16 +49,16 @@ export default function HomePage() {
     {
       id: "risho-guru",
       title: "Risho Guru",
-      description: "Educational platform for Bangla medium students",
+      description: "Your AI-powered Class 1-12 tutor. Instant answers, videos, and comprehensive study help.",
       image: rishoGuruImg,
-      technologies: ["Flutter", "Provider", "Firebase", "NCTB API"],
+      technologies: ["Flutter", "Provider", "Firebase",],
       rating: "4.8★",
       downloads: "100K+",
     },
     {
       id: "talentlenshub",
       title: "TalentLensHub",
-      description: "Platform to discover and showcase talents",
+      description: "Boost your career! Expert courses, job tools & personalized skill growth everything at one place.",
       // image: "/placeholder.svg?height=300&width=200",
       image: talentLensHubImg,
       technologies: ["Flutter", "Supabase", "Social Features", "Media Upload"],
@@ -68,7 +68,7 @@ export default function HomePage() {
     {
       id: "talentlenshub-employee",
       title: "TalentLensHub Employee",
-      description: "Platform to discover and showcase talents",
+      description: "Streamline talent management, assess competencies, and boost employee career growth.",
       // image: "/placeholder.svg?height=300&width=200",
       image: tlhEmpImg,
       technologies: ["Flutter", "Supabase", "Social Features", "Media Upload"],

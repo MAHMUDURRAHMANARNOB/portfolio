@@ -150,11 +150,11 @@ const projectData = {
   },
   "risho-guru": {
     title: "Risho Guru",
-    subtitle: "Educational Platform for Bangla Medium Students",
+    subtitle: "Your AI-powered K-12 tutor. Instant answers, videos, and comprehensive study help.",
     description:
       "A comprehensive educational app designed specifically for Bangla medium students, featuring AI-powered tutoring and NCTB curriculum integration.",
     longDescription:
-      "Risho Guru revolutionizes education for Bangla medium students by providing AI-powered assistance tailored to the NCTB curriculum. The platform offers interactive lessons, practice tests, and personalized study plans to help students excel in their academic journey.",
+      "Risho.guru is an innovative AI-powered education platform, meticulously developed over two years, offering comprehensive K-12 curriculum coverage from Bangladesh, India, UK, USA, and Canada, with features like an interactive study board for instant answers, a vast library of interactive video lessons, and multifunctional AI assistance for math, writing, programming, mental health support, and more, available 24/7.",
     image: "/placeholder.svg?height=600&width=300",
     screenshots: [
       "/placeholder.svg?height=600&width=300",
@@ -218,7 +218,7 @@ const projectData = {
     description:
       "A social platform that connects talented individuals with opportunities, featuring portfolio creation, talent discovery, and networking capabilities.",
     longDescription:
-      "TalentLensHub is more than just a portfolio platform—it's a comprehensive ecosystem for talent discovery and professional networking. Users can showcase their skills, connect with like-minded individuals, and discover new opportunities in their field.",
+      "TalentLensHub is a comprehensive career growth platform empowering job seekers and professionals with expert-led courses, job preparation tools, and personalized learning paths to enhance skills and secure career opportunities.",
     image: "/placeholder.svg?height=600&width=300",
     screenshots: [
       "/placeholder.svg?height=600&width=300",
